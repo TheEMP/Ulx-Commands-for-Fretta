@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"ULX Commands For Fretta"
+	"version"			"1.0"
+	"up_date"			"10/18/14"
+	"author_name"			"EMP"
+	"author_url"			"http://www.ulyssesmod.net/"
+	"info"				"ULX Commands For Fretta"
+	"override"			"0"
+}
