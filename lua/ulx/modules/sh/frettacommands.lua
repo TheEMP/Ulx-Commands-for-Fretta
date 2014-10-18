@@ -69,4 +69,4 @@ function ulx.roundsleft( calling_ply )
 end
 local roundsleft = ulx.command( CATEGORY_NAME, "ulx roundsleft", ulx.roundsleft, "!roundsleft" )
 roundsleft:defaultAccess( ULib.ACCESS_ALL )
-roundsleft:help( "Forces the round to restart." )
+roundsleft:help( "Prints the rounds that are left." )
